@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0006/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: 老君告正一天師曰天道冥運文象玄應昭而不言經星常宿中外官品各有司主凡一百一十八名積數七百八十二星二十八宿兩曜五星皆在璇璣以齊七政五天大號靈斗帝君南北建候東西均平光極中央臨照四方吾爲汝說玄文洞章世人受誦變災爲祥至士得之玄景靈光吾已爲汝說北斗本命之訣南斗六司之文度人無量刧刧長存吾今復爲汝說玉靈瑶篇東斗帝君之命主算延年使傳下世能度三塗五苦八難之厄能與削死上生大計之令總監形魂玄妙眞默無極無窮老君曰東方之神以斗爲鄰長生大聖韓君丈人執我之柄不死之神輔我之左長生之君弼我之右司馬大神行我之政司命司錄延夀益算無量度人靑帝與我護魂太上與我扶身巴元醜伯魔王之眞從我所願延救天人急急如律令
+  hash: sha256:a4a1aeaf95acf55659b29abf80f1fcc44b506516c3d01ec0fe08eb5425874e74
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0006_CK-KZ_01p013a, image: JY105/CK-KZ_JY105_01p013a.png}
+  - {type: head, offset: 0, content: 太上說東斗主算護命妙經, id: KR5c0006_CK-KZ-jye_000-h1, level: 1}
+body:
+  text: 咒曰大道著明寂默玄冥五斗中運四時生成北都萬鬼遏人年齡我有洞章度世長生供養尊禮主人精神玄中有玄峨峨玉京急急如律令東斗第一蒼靈延生眞君東斗第二陵光護命眞君東斗第三關天大衞集福眞君東斗第四大明和陽保和眞君東斗第五尾極總監眞君老君曰凡人受誦必須至誠齋心東向叩齒心拜危坐閉目存神如見東方無極之鄕玄靈帝君至眞大聖無鞅之眾羅列周匝如得監度有災之日宜於本命生辰或月之朔望月之九日或家庭觀宇以時花珍果焚香淨念望東斗帝君醮謝罪業求益夀年大靈所與獲福無量至人授度逍遥上淸此經玄奥深不可詳太上說經周竟於玉局座謂天師曰玄文秘法授非其人殃及九祖所以賜汝流行正道救度天人令得長生天師再拜頂禮受之如法奉行自此傳於世矣
+  hash: sha256:2e024aa37282b535ccb220f97f460fc745b3320b4222b87ddd3fd8d90f99ef7b
+metadata:
+  title: 太上說東斗主筭護命妙經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 00:16:35.521781'
+  source:
+    repository: kanripo
+    path: KR5c0006/KR5c0006_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:9c1236238003ac227cdcc4f293ebf731f3424d63edf09bde27b8111e040a9f85

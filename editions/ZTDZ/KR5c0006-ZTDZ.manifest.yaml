@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5c0006/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0006/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上說東斗主筭護命妙經
+  date: '2015-08-29 00:16:35.521781'
+  source:
+    repository: kanripo
+    path: KR5c0006
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0006_000-ZTDZ.yaml, hash: 'sha256:8444fd32336a3ccac02a60cd2dbd2a3f2d33d2c1edb90b772f48ce82aa2e6b09'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0006_000-ZTDZ.markers.yaml, hash: 'sha256:c3b3e3c93492ab06a6dc5be5da2e23329b27b7dde42c7cd158dd728c1b7a19e1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0006_SJB_000-110353a
+    span:
+    - body
+    - 0
+    - 303
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:277b56d5626ea61519e09251e087cc830429f379512d980022356965dc84a53f
